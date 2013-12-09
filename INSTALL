@@ -1,0 +1,9 @@
+Building LobsterCoin
+
+See doc/readme-qt.rst for instructions on building lobstercoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of LobsterCoin.
+
+See doc/build-*.txt for instructions on building LobsterCoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of LobsterCoin.
